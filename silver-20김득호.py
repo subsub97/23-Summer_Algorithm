@@ -1,3 +1,4 @@
+
 n = int(input())
 q = []
 max_size = n
@@ -13,3 +14,4 @@ for _ in range(n):
             q.pop()
 print(q[-1])
 
+#commit message 추가
